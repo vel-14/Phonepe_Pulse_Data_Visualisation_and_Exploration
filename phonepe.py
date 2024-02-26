@@ -476,6 +476,9 @@ if select=="Phonepe Home":
         st.write("****Money Storage****")
         st.write("****PIN Authorization****")
         st.download_button("DOWNLOAD THE APP NOW", "https://www.phonepe.com/app-download/")
+
+    with col2:
+        st.video("https://www.youtube.com/watch?v=IrD3B0NfW-4")
         
     col3,col4= st.columns(2)
     
